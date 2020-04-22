@@ -1,0 +1,2 @@
+# portapack-havoc-latesbuild
+furrtek的最新portapack-havoc源码编译固件，方便全球用户及时测试使用最新固件功能
